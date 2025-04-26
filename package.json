@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Someshsw1109/skoolwhiz-backend-author-somesh-raj#readme",
   "dependencies": {
+    "axios": "^1.9.0",
     "json-server": "^0.17.3"
   }
 }
