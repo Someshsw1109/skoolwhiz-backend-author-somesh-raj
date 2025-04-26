@@ -1,0 +1,23 @@
+{
+  "name": "skoolwhiz-backend-author-somesh-raj",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Someshsw1109/skoolwhiz-backend-author-somesh-raj.git"
+  },
+  "author": "Somesh Raj <workmail.somesh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Someshsw1109/skoolwhiz-backend-author-somesh-raj/issues"
+  },
+  "homepage": "https://github.com/Someshsw1109/skoolwhiz-backend-author-somesh-raj#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
